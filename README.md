@@ -5,5 +5,5 @@ https://leetcode.cn/problems/excel-sheet-column-title/ 写半天写不出合适�
 https://leetcode.cn/problems/binary-tree-paths/ 递归是弱点，半天写不出，看了题解，思路清晰些
 https://leetcode.cn/problems/reverse-linked-list/ 想了半天，写的不好看
 https://leetcode.cn/problems/3u1WK4/ 不会，看题解学习
-https://leetcode.cn/problems/binode-lcci/description/ 不会，看了题解没懂
+已完成 https://leetcode.cn/problems/binode-lcci/description/ 不会，看了题解没懂
 https://leetcode.cn/problems/maximum-product-of-three-numbers/description/ 数学分类讨论，看了题解明白了
