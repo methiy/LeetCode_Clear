@@ -7,3 +7,6 @@ https://leetcode.cn/problems/reverse-linked-list/ 想了半天，写的不好看
 https://leetcode.cn/problems/3u1WK4/ 不会，看题解学习
 已完成 https://leetcode.cn/problems/binode-lcci/description/ 不会，看了题解没懂
 https://leetcode.cn/problems/maximum-product-of-three-numbers/description/ 数学分类讨论，看了题解明白了
+https://leetcode.cn/problems/aMhZSa/ 加入递归解法
+https://leetcode.cn/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/description/ 学会了约瑟夫环的公式
+https://leetcode.cn/problems/hanota-lcci/ 不熟练 且 看了题解
